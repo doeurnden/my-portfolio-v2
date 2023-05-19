@@ -1,7 +1,9 @@
 <template>
-<Navigation/>
-<!-- <h1>Hello From Home Page</h1> -->
-<Footer1/>
+    <Navigation/>
+    <div>
+        <h1>Hello From Project</h1>
+    </div>
+    <Footer1/>
 </template>
 
 <script>
