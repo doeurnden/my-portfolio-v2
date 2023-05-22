@@ -28,6 +28,7 @@ export default{
 .navbar{
     display: flex;
     justify-content: space-between;
+    margin: 0 1rem;
     a{text-decoration: none;}
     .logo-name-skill{
         display: flex;
