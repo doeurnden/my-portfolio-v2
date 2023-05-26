@@ -10,9 +10,7 @@
             </div>
             <div class="about">
                 <h4>A bit about Me</h4>
-                <p>I'm a paragraph. Click here to add your own text <br>
-                    and edit me. I’m a great place for you to tell a story <br>
-                    and let your users know a little more about you.
+                <p>I'm a web developer. Click here to see something about me<br>
                 </p>
             </div>
             <div class="circle">
