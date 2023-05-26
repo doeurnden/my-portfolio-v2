@@ -10,7 +10,7 @@
             </div>
             <div class="about">
                 <h4>A bit about Me</h4>
-                <p>I'm a web developer. Click here to see something about me<br>
+                <p>I'm a web developer. Click here to know more about me<br>
                 </p>
             </div>
             <div class="circle">
