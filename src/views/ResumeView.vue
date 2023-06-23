@@ -4,10 +4,8 @@
             <div class="data">
                 <div class="work">
                     <h2>Work Experience</h2>
-                    <p>C/C++ JAVA PYTHON PHP</p>
-                    <p>HTML CSS Javascript</p>
-                    <p>Bootstrap Taiwind-CSS VueJS</p>
-                    <p>github docker basic-linux</p>
+                    <p>Project School (T-Shirt)</p>
+                    <p>Project JAVA spring boot(GIC coffee)</p>
                 </div>
                 <div class="edu">
                     <h2>Eduucation</h2>
@@ -16,11 +14,12 @@
                 </div>
                 <div class="skill">
                     <h1>Skills & Expertise</h1>
+                    <p>Web development</p>
+                    <p>HTML CSS JavaScript</p>
                     <h2>Programming Languages</h2>
-                    <p>C/C++ 50%</p>
-                    <p>Java 45%</p>
-                    <p>Javascript 60%</p>
-                    <p>PHP 10%</p>
+                    <p>C/C++, JAVA, PYTHON, PHP</p>
+                    <p>Bootstrap Taiwind-CSS</p>
+                    <p>github docker basic-linux</p>
                 </div>
             </div>
        </div>

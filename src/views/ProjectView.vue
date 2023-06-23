@@ -8,7 +8,7 @@
                 <p>This is my school project</p>
             </aside>
             <aside class="img">
-                <img src="../assets/den-t-shirt.png" alt="den-t-shirt">
+                <a href="https://www.doeurnden.shop/" target="_blank"><img src="../assets/den-t-shirt.png" alt="den-t-shirt"></a>
             </aside>
         </div>
     </main>
