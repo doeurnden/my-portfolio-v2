@@ -12,8 +12,7 @@
         <div class="r-p-c-l">
             <div class="r"><router-link to="resume">Resume</router-link> </div> |
             <div class="p"><router-link to="project">Projects</router-link></div> |
-            <div class="c"><router-link to="contact">Contact</router-link></div> |
-            <div class="l"><router-link to="login">Login</router-link></div>
+            <div class="c"><router-link to="contact">Contact</router-link></div>
         </div>
     </div>
 </template>
